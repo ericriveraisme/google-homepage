@@ -1,1 +1,1 @@
-print("Eggs and Spam.")
+<html>Spam and Eggs!</html>
